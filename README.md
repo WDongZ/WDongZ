@@ -1,22 +1,19 @@
 # Hi 👋, I'm Weidong Zhao
 
-### A CS Student & A Game Developer
+### A CS Student & A Game Developer | [🌐 Visit My Blog](https://wdongz.github.io/blog/)
 
 - 🔭 I'm currently working on **a Co-player AI Agent in Unity**
-
+- 📝 I write about Game AI and CG on **[My Technical Blog](https://wdongz.github.io/blog/)**
 - 🌱 I'm currently learning **UE5 and LLM**
-
 - 👯 I'm looking to collaborate on **game development**
-
 - 🤝 I'm looking for help with **learning LLM and UE5**
-
 - 📫 How to reach me **12210833@mail.sustech.edu.cn**
-
 - ⚡ Fun fact **Play all kinds of games!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/WDongZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="WDongZ" height="30" width="40" /></a>
+<a href="https://wdongz.github.io/blog/" target="blank"><img align="center" src="https://img.shields.io/badge/My_Blog-blue?style=for-the-badge&logo=hugo&logoColor=white" alt="Blog" height="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
